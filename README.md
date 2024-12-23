@@ -1,0 +1,2 @@
+# Obsidianlif
+newbie
